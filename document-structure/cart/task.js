@@ -1,4 +1,4 @@
-const cartWrapper = document.querySelector('.cart')
+const cartWrapper = document.querySelector('.cart__products')
 window.addEventListener('click', function(event){
     //console.log(event.target.className)
 
